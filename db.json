@@ -1,0 +1,29 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "descripcion": "tarea de ejemplo 1",
+      "hecho": false
+    },
+    {
+      "id": 3,
+      "descripcion": "tarea de ejemplo 2",
+      "hecho": false
+    },
+    {
+      "id": 6,
+      "descripcion": "tarea de ejemplo 3",
+      "hecho": false
+    },
+    {
+      "id": 8,
+      "descripcion": "tarea de ejemplo 4 modificada",
+      "hecho": false
+    },
+    {
+      "id": 959255449,
+      "descripcion": "Tarea",
+      "hecho": true
+    }
+  ]
+}

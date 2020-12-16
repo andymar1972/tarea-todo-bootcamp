@@ -1,0 +1,12 @@
+<div class="lista">
+  <h1>Editar Tarea</h1>
+  <mat-form-field appearance="fill">
+    <mat-label>Descripcción Tarea</mat-label>
+    <input
+      matInput
+      name="descripccionTarea"
+      [(ngModel)]="descripccionTarea"
+      (keyup.enter)="actualizarTarea()"
+    />
+  </mat-form-field>
+</div>
